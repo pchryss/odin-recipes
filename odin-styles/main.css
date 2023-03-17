@@ -1,0 +1,49 @@
+* {
+    font-family: 'Varela Round', sans-serif;
+    background-color: #93CAED;
+}
+
+
+.title {
+    text-align: center;
+}
+
+.title h1 {
+    font-size: 60px;
+}
+
+.title h5 {
+}
+
+.list {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.list ul {
+    list-style-type:none;
+    padding-left: 12px;
+}
+
+.list li {
+    padding-top: 10px;
+    font-size: 17px;
+}
+
+.link {
+    text-decoration: underline;
+}
+
+.link:visited {
+    color: black;
+}
+
+img {
+    height: 320px;
+}
+
+.image {
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+}
